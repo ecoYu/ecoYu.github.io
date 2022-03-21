@@ -51,6 +51,8 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
+#Disqus settings（https://disqus.com/）
+disqus_username: ecoyu
 
 
 
