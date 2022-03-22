@@ -52,14 +52,14 @@ kramdown:
 
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 0e6e62d4431beaedd4f8                           #生成的clientID
-  clientSecret: d792952e9615cfeb5926370956827aa2dc746263    #生成的clientSecret
-  repo: ecoyu.github.io    #仓库名称
-  owner: ecoyu    #github用户名
-  admin: ecoyu
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: 0e6e62d4431beaedd4f8                           #生成的clientID
+  #clientSecret: d792952e9615cfeb5926370956827aa2dc746263    #生成的clientSecret
+  #repo: ecoyu.github.io    #仓库名称
+  #owner: ecoyu    #github用户名
+  #admin: ecoyu
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
