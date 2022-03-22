@@ -2,7 +2,7 @@
 title: Yu x.k.
 SEOTitle: 俞小坤的主页 | YU Blog
 header-img: img/fengm.jpg
-email: 2019201881@ruc.edu.cn
+email: yxk0304@ruc.edu.cn
 description: "You Blog"
 keyword: "YU, YXK Blog, 俞小坤的主页, Yuxiaokun,economics,中国人民大学"
 url: "http://ecoyu.github.io"          # your host, for absolute URL
@@ -51,6 +51,15 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
+# Gitalk
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: 0e6e62d4431beaedd4f8                           #生成的clientID
+  #clientSecret: d792952e9615cfeb5926370956827aa2dc746263    #生成的clientSecret
+  #repo: ecoyu.github.io    #仓库名称
+  #owner: ecoyu    #github用户名
+  #admin: ecoyu
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
